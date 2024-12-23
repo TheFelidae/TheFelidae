@@ -1,6 +1,9 @@
 I'm a hobbyist and college student. I mainly mess with C, C++, C#, and Rust.
 
-![Some stats](https://github-readme-stats.vercel.app/api?username=TheFelidae&show_icons=true&theme=radical)
+[![blahaj!](https://isabelroses.com/static/badges/badges/love_blahaj.gif)](https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/)
+![trans rights!](https://isabelroses.com/static/badges/badges/transnow.png)
+![progress pride](https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_progress.png?raw=true)
+![transfem](https://github.com/TheFelidae/88x31/raw/main/images/pride/badge_transfem.gif)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2036%20mins-blue)
@@ -85,8 +88,3 @@ Yacc                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 23/12/2024 15:23:46 UTC
 <!--END_SECTION:waka-->
-
-[![blahaj!](https://isabelroses.com/static/badges/badges/love_blahaj.gif)](https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/)
-![trans rights!](https://isabelroses.com/static/badges/badges/transnow.png)
-![progress pride](https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_progress.png?raw=true)
-![transfem](https://github.com/TheFelidae/88x31/raw/main/images/pride/badge_transfem.gif)
