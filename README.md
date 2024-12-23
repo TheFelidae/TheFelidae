@@ -5,6 +5,7 @@ I'm a hobbyist and college student. I mainly mess with C, C++, C#, and Rust.
 ![progress pride](https://raw.githubusercontent.com/TheFelidae/88x31/refs/heads/main/images/pride/badge_progress.png?raw=true)
 ![transfem](https://github.com/TheFelidae/88x31/raw/main/images/pride/badge_transfem.gif)
 ![queercoded](https://isabelroses.com/static/badges/badges/queercoded.webp)
+![nix](https://isabelroses.com/static/badges/badges/nix.gif)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2036%20mins-blue)
