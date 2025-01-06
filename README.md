@@ -8,17 +8,17 @@ I'm a hobbyist and college student. I mainly mess with C, C++, C#, and Rust.
 ![netscape NOW](https://cyber.dabamos.de/88x31/netscapenow30.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-425.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-443.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 283.3 kB Used in GitHub's Storage 
+> 📦 283.4 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,21 +29,21 @@ I'm a hobbyist and college student. I mainly mess with C, C++, C#, and Rust.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌆 Daytime                190 commits         ██████████████░░░░░░░░░░░   56.89 % 
-🌃 Evening                76 commits          ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+🌞 Morning                54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌆 Daytime                218 commits         ███████████████░░░░░░░░░░   58.92 % 
+🌃 Evening                80 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Tuesday                  79 commits          ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Thursday                 36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Sunday                   81 commits          ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Monday                   17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Tuesday                  107 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Wednesday                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Friday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Saturday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Sunday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
 ```
 
 
@@ -87,5 +87,5 @@ Yacc                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2025 18:42:38 UTC
+ Last Updated on 06/01/2025 18:45:37 UTC
 <!--END_SECTION:waka-->
