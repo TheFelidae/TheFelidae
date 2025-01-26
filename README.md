@@ -1,4 +1,16 @@
-I'm a hobbyist and college student. I mainly mess with C, C++, C#, and Rust.
+### About Me
+Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuff occasionally.
+I'm experimenting with feminine presentation - Please use and respect what I set as my info online.
+
+### Skills & Technologies
+- **Languages**: C, C++, C#, Rust
+- **Frameworks**: Vue (Still learning JS/TS)
+- **Tools**: Git, Docker, Visual Studio Code, JetBrains Suite
+- **OS**: NixOS Linux!
+
+### Current Learning Goals
+- Dive deeper into JS frameworks.
+- Get the hang of Rust a bit more
 
 [![blahaj!](https://isabelroses.com/static/badges/badges/love_blahaj.gif)](https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/)
 ![trans rights!](https://isabelroses.com/static/badges/badges/transnow.png)
