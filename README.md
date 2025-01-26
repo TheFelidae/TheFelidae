@@ -1,6 +1,9 @@
 ### About Me
 Hi, I'm Luna. I'm a college student and hobbyist compsci nerd who does some stuff occasionally.
-I'm experimenting with feminine presentation - Please use and respect what I set as my info online.
+
+- I'm still learning stuff
+- I have Autism and ADHD, please be patient
+- 🏳️‍⚧️ I'm experimenting with a feminine presentation and identity - Please use and respect what I set as my info online
 
 ### Skills & Technologies
 - **Languages**: C, C++, C#, Rust
